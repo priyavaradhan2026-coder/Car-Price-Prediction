@@ -14,7 +14,7 @@ CarDekho used car dataset (car_details.csv) from Kaggle.
 - Trained a Linear Regression model and evaluated it with R²
 
 ## Result
-R² score: [r2_score: 0.57]
+R² score: 0.57
 
 ## Tools
 Python, Pandas, NumPy, Matplotlib, scikit-learn
