@@ -6,8 +6,7 @@
 Predicts the selling price of used cars using Linear Regression.
 
 ## Dataset
-CarDekho used car dataset (car_details.csv) from Kaggle.
-
+CarDekho used car dataset (CAR DETAILS FROM CAR DEKHO.csv) from Kaggle.
 ## What I did
 - Cleaned the data and handled missing values
 - Encoded categorical features
